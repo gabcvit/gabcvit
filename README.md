@@ -5,7 +5,7 @@
 I'm Gabriel, a frontend / mobile applications developer with huge passion for UX/UI and Design. My inner drive has always been bringing technology and all its features to the service of people.
 
 ## 👨🏻‍💻 Currently working at
-[app affirs GmbH.](https://www.app-affairs.com/) as a Mobile applications developer
+[app affairs GmbH.](https://www.app-affairs.com/) as a Mobile applications developer
 
 
 ## 🌱 Currently learning
