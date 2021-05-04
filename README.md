@@ -23,13 +23,6 @@ I'm Gabriel, a frontend / mobile applications developer with huge passion for UX
 - Design with ![image](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&color=black) ![image](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&color=black)
 - Game development with ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&color=black) ![image](https://img.shields.io/badge/C--sharp-239120?style=for-the-badge&logo=c-sharp&color=black)
 
-
-- VueJS
-- React-Native
-- Sketch 3
-- Angular / AngularJS
-- Unity (C#)
-
 ## 🖥 Profiles
 [Stackoverflow](https://stackoverflow.com/users/6231562/gabcvit?tab=profile)
 <br/>
