@@ -9,7 +9,6 @@ I'm Gabriel, a frontend / mobile applications developer with huge passion for UX
 
 
 ## 🌱 Currently learning
-- Ruby on Rails
 - Blockchain
 - GitHub Actions
 - GraphQL
@@ -28,3 +27,4 @@ I'm Gabriel, a frontend / mobile applications developer with huge passion for UX
 <br/>
 [Linkedin](https://linkedin.com/in/gabcvit)
 <br/>
+[Website](https://gabcvit.github.io/)
