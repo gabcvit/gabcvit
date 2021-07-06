@@ -23,8 +23,8 @@ I'm Gabriel, a frontend / mobile applications developer with huge passion for UX
 - Game development with ![image](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&color=black)
 
 ## 🖥 Profiles
-<img src="https://github.com/gabcvit/gabcvit/blob/main/stackoverflow.png" width="14px" /> [Stackoverflow](https://stackoverflow.com/users/6231562/gabcvit?tab=profile)
+<img src="https://github.com/gabcvit/gabcvit/blob/main/img/stackoverflow.png" width="14px" /> [Stackoverflow](https://stackoverflow.com/users/6231562/gabcvit?tab=profile)
 <br/>
-<img src="https://github.com/gabcvit/gabcvit/blob/main/linkedin.png" width="14px" /> [Linkedin](https://linkedin.com/in/gabcvit)
+<img src="https://github.com/gabcvit/gabcvit/blob/main/img/linkedin.png" width="14px" /> [Linkedin](https://linkedin.com/in/gabcvit)
 <br/>
-<img src="https://github.com/gabcvit/gabcvit/blob/main/github.png" width="14px" /> [Website](https://gabcvit.github.io/)
+<img src="https://github.com/gabcvit/gabcvit/blob/main/img/github.png" width="14px" /> [Website](https://gabcvit.github.io/)
