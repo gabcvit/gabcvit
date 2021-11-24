@@ -9,14 +9,15 @@ I'm Gabriel, a frontend / mobile applications developer with huge passion for UX
 
 
 ## 👨🏻‍💻 Currently working at
-[app affairs GmbH.](https://www.app-affairs.com/) as a Mobile applications developer
+[ThoughtWorks](https://www.thoughtworks.com/) as a Consultant Developer
 
 
 ## 🌱 Currently learning
 - Blockchain
-- GitHub Actions
-- GraphQL
-- MongoDB
+- GCP and AWS
+- Kubernetes
+- Terraform
+- Next.js
 
 ## <img src="https://emoji.discord.st/emojis/f2b1931a-bb21-4095-a0e7-39d606cc41d8.gif" width="22px" /> It's Over Anakin! I have the high ground on
 
