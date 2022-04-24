@@ -1,19 +1,24 @@
-### Howdy! <img src="https://emoji.discord.st/emojis/cooldoge.gif" width="22px" />
+### <img src="https://emoji.discord.st/emojis/cooldoge.gif" width="22px" /> Howdy! 
+
+I'm Gabriel, a frontend / mobile applications developer with huge passion for UX/UI and facilitating Agile ceremonies. My inner drive has always been bringing technology and all its features to the service of people.
+
+## 👨🏻‍💻 Currently working at
+[ThoughtWorks](https://www.thoughtworks.com/) as a Consultant Developer
+
+## 📊 My stats
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gabcvit.gabcvit)
 
 [![Gabcvit StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6231562&layout=compact)](https://stackoverflow.com/users/6231562/gabcvit)
 
-I'm Gabriel, a frontend / mobile applications developer with huge passion for UX/UI and Design. My inner drive has always been bringing technology and all its features to the service of people.
+[![github stats](https://github-readme-stats.vercel.app/api?username=gabcvit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)](https://github.com/gabcvit)
 
-
-
-## 👨🏻‍💻 Currently working at
-[ThoughtWorks](https://www.thoughtworks.com/) as a Consultant Developer
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcvit&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/gabcvit)
 
 
 ## 🌱 Currently learning
-- Blockchain
+- Business Analysis and Facilitation skills
+- Swift Combine
 - GCP and AWS
 - Kubernetes
 - Terraform
