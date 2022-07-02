@@ -1,9 +1,9 @@
-### <img src="https://emoji.discord.st/emojis/cooldoge.gif" width="22px" /> Howdy! 
+### <img src="https://emoji.discord.st/emojis/cooldoge.gif" width="10px" /> Howdy! 
 
 I'm Gabriel, a frontend / mobile applications developer with huge passion for UX/UI and facilitating Agile ceremonies. My inner drive has always been bringing technology and all its features to the service of people.
 
 ## 👨🏻‍💻 Currently working at
-[ThoughtWorks](https://www.thoughtworks.com/) as a Consultant Developer
+[Thoughtworks](https://www.thoughtworks.com/) as a Consultant Developer
 
 ## 📊 My stats
 
