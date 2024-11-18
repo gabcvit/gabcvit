@@ -1,5 +1,3 @@
-Frontend and Mobile apps developer with passion for UX, stakeholder management, building more equitable Software and challenging code biases.
-
 ## Currently working at
 [Thoughtworks](https://www.thoughtworks.com/) as a Senior Consultant Developer
 
