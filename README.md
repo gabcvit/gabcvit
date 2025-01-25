@@ -32,4 +32,6 @@ Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Con
 ![image](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&color=black)
 
 ## Stats
+![Gabcvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcvit&show_icons=true&theme=neon)
+
 [![Gabcvit StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6231562&layout=compact)](https://stackoverflow.com/users/6231562/gabcvit)
