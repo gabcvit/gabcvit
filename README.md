@@ -1,4 +1,6 @@
 ## About me
+[![user:6231562's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6231562?theme=cobalt)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
 Web and mobile app developer.
 
 Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Consultant Develper
@@ -32,6 +34,4 @@ Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Con
 ![image](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&color=black)
 
 ## Stats
-![Gabcvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcvit&show_icons=true&theme=neon)
-
-[![Gabcvit StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6231562&layout=compact)](https://stackoverflow.com/users/6231562/gabcvit)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcvit&show_icons=true&theme=neon)
