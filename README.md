@@ -1,9 +1,9 @@
 ## About me
 [![user:6231562's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6231562?theme=cobalt)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-Web and mobile app developer.
+Web and mobile apps developer with over 10 years of experience.
 
-Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Consultant Develper
+Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Consultant Developer
 
 ## Skillset
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black) 
