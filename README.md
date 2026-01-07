@@ -32,6 +32,3 @@ Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Con
 ![image](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&color=black)
 ![image](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&color=black)
 ![image](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&color=black)
-
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcvit&show_icons=true&theme=neon)
