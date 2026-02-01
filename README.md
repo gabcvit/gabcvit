@@ -1,11 +1,16 @@
-## About me
-[![user:6231562's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6231562?theme=cobalt)](https://github.com/johannchopin/stackoverflow-readme-profile)
+## ☀️ Who am I
 
-Web and mobile apps developer with over 10 years of experience.
+- Web and mobile apps dev with +10 years of experience.
+- Senior Consultant Developer @[Thoughtworks](https://www.thoughtworks.com/)
 
-Currently working at [Thoughtworks](https://www.thoughtworks.com/) as Senior Consultant Developer
+## 🪴 I'm most interested in
 
-## Skillset
+- Ethical usage of tech that improves real lives
+- Decentralization and self-ownership
+- Challenging code biases and power imbalance
+- A11y and data privacy
+
+## 💻 Tech stack
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black) 
 ![image](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=black) 
 ![image](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&color=black)
